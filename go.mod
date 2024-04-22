@@ -1,4 +1,4 @@
-module github.com/nuts-foundation/go-stoabs
+module github.com/Headease/go-stoabs
 
 go 1.22
 
